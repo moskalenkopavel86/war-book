@@ -1,0 +1,121 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;}
+  
+  .body{
+      background-color: rgb(189, 189, 184);}
+  
+  .H1-tittle {
+    color: rgb(241, 15, 15);
+    margin: 0 auto;
+    height: 0%;
+    width: 400px;
+    font-size: 100px;
+  }
+  
+  .central-bloc{
+  background-color: rgb(39, 39, 43);
+  max-width: inherit;
+  background:chocolate url("../img/sunflower.jpg")
+  
+  }
+  
+  
+  .registration{
+    background-color: rgb(17, 16, 16);
+    display: flex;
+    justify-content: flex-end
+    }
+  
+    .h2-registration{
+      opacity: 0;
+    }
+  
+  .vxid{
+    font-size: 17px;
+   color: rgb(113, 195, 228);
+   padding: 10px;
+   
+  
+  }
+  
+  .section-navi{
+    width: 100%;
+    background-color: cornflowerblue;
+    
+  
+  }
+    
+  
+  .ol-time{
+      color: brown;
+      text-transform: uppercase;
+      display: flex;
+      margin-left: 50px;
+      list-style-type: none;
+      line-height: 0pc;
+      
+      
+      
+    }
+  
+    .navi-sait{
+      margin-left: 50px;
+    }
+  
+  
+    
+  
+    .podiya-option{
+      background-color: blueviolet;
+      color: crimson;
+    }
+  
+  
+  
+  .h2opus{
+    margin-top: 50px;
+    font-size: 50px; 
+    color: rgb(73, 30, 30);
+    
+    text-transform: uppercase;
+    text-align: center;
+  
+  }
+  
+  .opus{
+    text-align: center;
+  }
+  
+  .h2-nav{
+    opacity: 0;
+  
+  }
+  
+  .video{
+    text-decoration: none;
+  }
+  
+  .books{
+    text-decoration: none;
+  }
+  .memoris{
+    text-decoration: none;
+  }
+  
+  .history-war{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 100px;
+    text-transform: uppercase;
+  }
+  
+  .new{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 100px;
+    text-transform: uppercase;
+  }
+  
+  
